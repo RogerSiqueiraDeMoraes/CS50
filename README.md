@@ -16,6 +16,5 @@ demonstrating growth from basic programming concepts to full-stack development.
 ## 🎯 Repository Structure
 - Weekly problem sets with detailed explanations
 - Personal learning reflections and insights
-- Final project: [Nome do seu projeto aqui]
+- Final project
 
-*"This was CS50!" - David Malan*
