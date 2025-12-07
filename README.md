@@ -4,7 +4,6 @@
 
 [![CS50](https://img.shields.io/badge/CS50-Harvard-blue)](https://cs50.harvard.edu/x/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
 
 ## 📖 About This Repository
 This repository documents my progress through Harvard's CS50x course. 
