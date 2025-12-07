@@ -4,16 +4,26 @@
 
 [![CS50](https://img.shields.io/badge/CS50-Harvard-blue)](https://cs50.harvard.edu/x/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
+[![License](https://img.shields.io/badge/License-MIT-green)]()
 
 ## 📖 About This Repository
 This repository documents my progress through Harvard's CS50x course. 
 It serves as both a learning archive and technical portfolio, 
 demonstrating growth from basic programming concepts to full-stack development.
 
-## 🛠 Technologies & Concepts Covered
-- **Languages:** C, Python, SQL, JavaScript, HTML/CSS
-- **Concepts:** Algorithms, Data Structures, Memory Management, Software Engineering
-- **Tools:** Git, Command Line, Debugging, Testing, CS50 IDE
-- **Applications:** Web Development, Databases, APIs, Computer Science Fundamentals
+## 📊 Progress Tracker
+| Week | Topic | Status | Completion Date |
+|------|-------|--------|-----------------|
+| 0 | Scratch | ✅ Completed | YYYY-MM-DD |
+| 1 | C | ✅ Completed | YYYY-MM-DD |
+| 2 | Arrays | 🔄 In Progress | |
+| 3 | Algorithms | ⏳ Pending | |
+| 4 | Memory | ⏳ Pending | |
+| 5 | Data Structures | ⏳ Pending | |
+| 6 | Python | ⏳ Pending | |
+| 7 | SQL | ⏳ Pending | |
+| 8 | Web | ⏳ Pending | |
+| 9 | Flask | ⏳ Pending | |
+| 10 | Cybersecurity | ⏳ Pending | |
 
 ## 🗂 Repository Structure
