@@ -10,6 +10,12 @@ This repository documents my progress through Harvard's CS50x course.
 It serves as both a learning archive and technical portfolio, 
 demonstrating growth from basic programming concepts to full-stack development.
 
+## 🛠 Technologies & Concepts Covered
+- **Languages:** C, Python, SQL, JavaScript, HTML/CSS
+- **Concepts:** Algorithms, Data Structures, Memory Management
+- **Tools:** Git, Command Line, Debugging, Testing
+- **Applications:** Web Development, Databases, APIs
+
 ## 📊 Progress Tracker
 | Week | Topic | Status | Completion Date |
 |------|-------|--------|-----------------|
@@ -24,3 +30,4 @@ demonstrating growth from basic programming concepts to full-stack development.
 | 8 | HTML, CSS and JavaScript | ⏳ Pending | |
 | 9 | Flask | ⏳ Pending | |
 | 10 | The End | ⏳ Pending | |
+
