@@ -15,15 +15,15 @@ demonstrating growth from basic programming concepts to full-stack development.
 | Week | Topic | Status | Completion Date |
 |------|-------|--------|-----------------|
 | 0 | Scratch | ✅ Completed | YYYY-MM-DD |
-| 1 | C | ✅ Completed | YYYY-MM-DD |
-| 2 | Arrays | 🔄 In Progress | |
+| 1 | C | 🔄 In Progress | YYYY-MM-DD |
+| 2 | Arrays | ⏳ Pending | |
 | 3 | Algorithms | ⏳ Pending | |
 | 4 | Memory | ⏳ Pending | |
 | 5 | Data Structures | ⏳ Pending | |
 | 6 | Python | ⏳ Pending | |
 | 7 | SQL | ⏳ Pending | |
-| 8 | Web | ⏳ Pending | |
+| 8 | HTML, CSS and JavaScript | ⏳ Pending | |
 | 9 | Flask | ⏳ Pending | |
-| 10 | Cybersecurity | ⏳ Pending | |
+| 10 | The End | ⏳ Pending | |
 
 ## 🗂 Repository Structure
