@@ -14,8 +14,8 @@ demonstrating growth from basic programming concepts to full-stack development.
 ## 📊 Progress Tracker
 | Week | Topic | Status | Completion Date |
 |------|-------|--------|-----------------|
-| 0 | Scratch | ✅ Completed | YYYY-MM-DD |
-| 1 | C | 🔄 In Progress | YYYY-MM-DD |
+| 0 | Scratch | ✅ Completed | 2025-12-06|
+| 1 | C | 🔄 In Progress | |
 | 2 | Arrays | ⏳ Pending | |
 | 3 | Algorithms | ⏳ Pending | |
 | 4 | Memory | ⏳ Pending | |
