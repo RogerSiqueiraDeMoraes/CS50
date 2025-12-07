@@ -25,5 +25,3 @@ demonstrating growth from basic programming concepts to full-stack development.
 | 8 | HTML, CSS and JavaScript | ⏳ Pending | |
 | 9 | Flask | ⏳ Pending | |
 | 10 | The End | ⏳ Pending | |
-
-## 🗂 Repository Structure
