@@ -7,8 +7,6 @@
 
 ## 📖 About This Repository
 This repository documents my progress through Harvard's CS50x course. 
-It serves as both a learning archive and technical portfolio, 
-demonstrating growth from basic programming concepts to full-stack development.
 
 ## 🛠 Technologies & Concepts Covered
 - **Languages:** C, Python, SQL, JavaScript, HTML/CSS
