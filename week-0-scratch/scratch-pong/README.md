@@ -9,7 +9,7 @@ A classic two-player Pong game built in Scratch for CS50's Problem Set 0.
 - **Player 1 (Left):** Uses `W` (up) and `S` (down) keys
 - **Player 2 (Right):** Uses arrow keys (up/down)
 - **Goal:** Bounce the ball past your opponent to score
-- **Win:** You can indefinitely
+- **Win:** You can play indefinitely
 
 ## 🏗️ Implementation
 
