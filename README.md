@@ -18,8 +18,8 @@ This repository documents my progress through Harvard's CS50x course.
 | Week | Topic | Status | Completion Date |
 |------|-------|--------|-----------------|
 | 0 | Scratch | ✅ Completed | 2025-12-10|
-| 1 | C | 🔄 In Progress | |
-| 2 | Arrays | ⏳ Pending | |
+| 1 | C | ✅ Completed | 2025-12-22|
+| 2 | Arrays | 🔄 In Progress | |
 | 3 | Algorithms | ⏳ Pending | |
 | 4 | Memory | ⏳ Pending | |
 | 5 | Data Structures | ⏳ Pending | |
